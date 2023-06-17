@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300960004701",
+    "project_id": "yollo-dfd87",
+    "storage_bucket": "yollo-dfd87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300960004701:android:c5166cf1c2b683bc372bb4",
+        "android_client_info": {
+          "package_name": "com.yollo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300960004701-1gnvdifqrmqalck6asp72b1infvqe6r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQKb2bVg-ba--sHe8ZDQEWskOBIbU3krM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300960004701-1gnvdifqrmqalck6asp72b1infvqe6r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
